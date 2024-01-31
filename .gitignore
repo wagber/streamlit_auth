@@ -1,5 +1,7 @@
 # Ambiente virtual
 env/
+.env
+
 __pycache__/
 
 # Arquivos de configuração do Python
