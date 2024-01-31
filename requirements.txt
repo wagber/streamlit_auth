@@ -1,8 +1,11 @@
 #Biblioteca de criação de webapp's
-streamlit==1.30.0
+streamlit==1.27.2
+#streamlit==1.30.0
 #Módulo para autenticar requisições
-streamlit_authenticator==0.3.1
+#streamlit_authenticator==0.3.1
+streamlit_authenticator==0.2.3
 #Módulo para conexão como o banco de dados
 psycopg2==2.9.9
 #Módulo para esconder os dados sensíveis da conexção com banco de dados
-python-dotenv==1.0.1
+#python-dotenv==1.0.1
+python-dotenv==1.0.0
