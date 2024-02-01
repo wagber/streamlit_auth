@@ -71,7 +71,6 @@ def add_registro(nome, user, senha):
     query = f'''
         INSERT INTO REGISTROS VALUES
         {nome, user, senha}
-        )
         '''
     
     cursor.execute(query)
